@@ -113,4 +113,15 @@ footer div{
     justify-content: center;
     gap: 15px;
 }
-footer h2]
+.History{
+background-color: blue;
+border-radius: 14px;
+color: white;
+font-family: bold;
+}
+.tap{
+text-decoration: none;
+color: white;
+background-color: blue;
+font-family: bold;
+}
